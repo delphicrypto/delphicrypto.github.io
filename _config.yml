@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Delphi Crypto 
 subtitle:
 description:
 author: John Doe
@@ -344,8 +344,8 @@ post_copyright:
 #   enabled: [true/false] - Replace with specific image
 #   image: url-of-image   - Images's url
 custom_logo:
-  enabled: false
-  image:
+  enabled: false 
+  image: 
 
 
 # Code Highlight theme
