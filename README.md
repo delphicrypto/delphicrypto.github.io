@@ -1,5 +1,5 @@
 # Delphi Crypto Webpage
 
-Visit our page [here](www.delphicrypto.github.io)
+Visit our page [here](http://delphicrypto.github.io)
 
 Adapted from: [NexT](http://jekyllthemes.org/themes/jekyll-theme-next/)
