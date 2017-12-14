@@ -119,8 +119,12 @@ menu:
   home: /
   #categories: /categories/
   #about: /about/
-  archives: /archives/
-  tags: /tags/
+  #archives: /archives/
+  #tags: /tags/
+  education: /archives/
+  projects: /archives/
+  #contact : /archives/
+  people: /archives/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -135,6 +139,9 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
+  people: users
+  projects: gears
+  education: graduation-cap 
   categories: th
   schedule: calendar
   tags: tags
