@@ -123,8 +123,8 @@ menu:
   #tags: /tags/
   education: /education/
   projects: /archives/
-  #contact : /archives/
-  people: /archives/
+  people: /people/
+  contact : /contact/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -148,6 +148,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  contact: envelope-o 
 
 
 
