@@ -26,7 +26,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/peri.jpg" alt="Jane" style="width:100%">
+      <img src="/assets/peri.jpg" alt="Jane" id="person" style="width:80%">
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">CEO &amp; Founder</p>
@@ -39,7 +39,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
   <div class="column">
     <div class="card">
-      <img src="/assets/carlos.jpg" alt="Mike" style="width:100%">
+      <img src="/assets/carlos.jpg" alt="Mike" style="width:80%" id="person">
       <div class="container">
         <h2>Mike Ross</h2>
         <p class="title">Art Director</p>
