@@ -1,5 +1,5 @@
 ---
-title: People
+title: 
 layout: page 
 ---
 
@@ -22,33 +22,44 @@ layout: page
 $("#test p").delay(10).animate({ opacity: 1  }, 700);
 </script>
 
-<div class="row">
-    <div class="card arrange-horizontally">
-      <div>
-      <img src="/assets/carlos.jpg" alt="Jane" id="person" style="width:30%">
-      </div>
-      <div class="container">
-        <h2>Carlos G. Oliver</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-    </div>
-  </div>
-
-</div>
 
 <div class="row">
+  <div class="column">
     <div class="card">
-      <img src="/assets/carlos.jpg" alt="Jane" id="person" style="width:30%">
+      <img src="/assets/peri.jpg" alt="Jane" style="width:100%">
       <div class="container">
-        <h2>Pericles Philippopoulos</h2>
+        <h2>Jane Doe</h2>
         <p class="title">CEO &amp; Founder</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
+      </div>
     </div>
   </div>
 
-</div>
+  <div class="column">
+    <div class="card">
+      <img src="/assets/carlos.jpg" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Mike Ross</h2>
+        <p class="title">Art Director</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
 
+  <div class="column">
+    <div class="card">
+      <img src="/assets/carlos.jpg" alt="John" style="width:100%">
+      <div class="container">
+        <h2>John Doe</h2>
+        <p class="title">Designer</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>

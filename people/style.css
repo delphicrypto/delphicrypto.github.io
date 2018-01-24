@@ -1,10 +1,18 @@
 /* Three columns side by side */
 .column {
     float: left;
-    width: 33.3%;
+    width: 40%;
     margin-bottom: 16px;
     padding: 0 8px;
 
+}
+
+#square {
+	width: 100px;
+	height: 100px;
+	background: red;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #person {
