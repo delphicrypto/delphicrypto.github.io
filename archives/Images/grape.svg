@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-92.142857"
+     inkscape:cx="-559.28571"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,45 +54,41 @@
      id="layer1"
      transform="translate(0,-343.70079)">
     <g
-       id="g4963"
-       transform="translate(-821.72776,373.79855)">
-      <g
-         transform="matrix(1.1260633,0,0,1.1260633,786.11252,-25.557516)"
-         id="g4870">
-        <circle
-           stroke-miterlimit="10"
-           cx="346.88632"
-           cy="148.38994"
-           r="91.681168"
-           id="circle3"
-           style="fill:#ffffff;stroke:#000000;stroke-width:14.05793476;stroke-miterlimit:10" />
-        <circle
-           stroke-miterlimit="10"
-           cx="228.92279"
-           cy="333.67786"
-           r="91.681168"
-           id="circle5"
-           style="fill:#ffffff;stroke:#000000;stroke-width:14.05793476;stroke-miterlimit:10" />
-        <circle
-           stroke-miterlimit="10"
-           cx="463.65985"
-           cy="333.67786"
-           r="91.681168"
-           id="circle7"
-           style="fill:#ffffff;stroke:#000000;stroke-width:14.05793476;stroke-miterlimit:10" />
-      </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text9386-3"
-         y="616.7533"
-         x="1000.0255"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a007d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#4a007d;fill-opacity:1"
-           y="616.7533"
-           x="1000.0255"
-           id="tspan9388-6"
-           sodipodi:role="line">GRAPE</tspan></text>
+       id="g4870"
+       transform="matrix(1.1260633,0,0,-1.1260633,-35.61524,891.07988)">
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:14.05793476;stroke-miterlimit:10"
+         id="circle3"
+         r="91.681168"
+         cy="148.38994"
+         cx="346.88632"
+         stroke-miterlimit="10" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:14.05793476;stroke-miterlimit:10"
+         id="circle5"
+         r="91.681168"
+         cy="333.67786"
+         cx="228.92279"
+         stroke-miterlimit="10" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:14.05793476;stroke-miterlimit:10"
+         id="circle7"
+         r="91.681168"
+         cy="333.67786"
+         cx="463.65985"
+         stroke-miterlimit="10" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a007d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="178.29776"
+       y="990.55182"
+       id="text9386-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9388-6"
+         x="178.29776"
+         y="990.55182"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#4a007d;fill-opacity:1">GRAPE</tspan></text>
   </g>
 </svg>
