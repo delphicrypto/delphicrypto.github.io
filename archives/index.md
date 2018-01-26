@@ -26,7 +26,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/archives/Images/pear.svg" alt="PEAR" id="person" style="width:80%">
+      <img src="/archives/Images/pear.svg" alt="PEAR" style="width:80%">
       <div class="container">
         <h2>Pear</h2>
         <p class="title">Decentralized Journal</p>
@@ -38,7 +38,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
   <div class="column">
     <div class="card">
-      <img src="/archives/Images/proposal.svg" alt="Proposal" style="width:80%" id="person">
+      <img src="/archives/Images/proposal.svg" alt="Proposal" style="width:80%" >
       <div class="container">
         <h2>Proposal</h2>
         <p class="title">Update proof-of-work</p>
@@ -80,7 +80,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/archives/Images/pear.png" alt="Coins" id="person" style="width:80%">
+      <img src="/archives/Images/mango.svg" alt="Mango"  style="width:80%">
       <div class="container">
         <h2>Mango</h2>
         <p class="title">Investment Tracking Application</p>
