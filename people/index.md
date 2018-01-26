@@ -57,3 +57,37 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
   </div>
 
 </div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/assets/ale.jpg" alt="Jane" id="person">
+      <div class="container">
+        <h2>Alessandro Ricottone</h2>
+        <p class="title">Co-founder</p>
+        <p>Pericles is a PhD student in Physics. </p>
+        <!--<p><button class="button">Contact</button></p>-->
+	<a href="mailto:pericles.philippopoulos@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+	<a href="http://www.github.com/pphili" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+	<i class="fa fa-twitter" aria-hidden="true"></i>
+	<a href="https://pphili.github.io/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/assets/carlos.jpg" alt="Mike" id="person">
+      <div class="container">
+        <h2>Simon Sehayek</h2>
+        <p class="title">Co-founder</p>
+        <p>Carlos is a PhD student in Computer Science.</p>
+	<a href="mailto:cgoliver@protonmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+	<a href="http://www.github.com/cgoliver" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+	<a href="http://www.twitter.com/carlosgoliver" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+	<a href="http://www.cgoliver.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
+      </div>
+    </div>
+  </div>
+
+</div>
