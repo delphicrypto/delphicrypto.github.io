@@ -53,7 +53,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/archives/Images/pear.png" alt="GRAPE" id="person" style="width:80%">
+      <img src="/archives/Images/grape.svg" alt="GRAPE" style="width:80%">
       <div class="container">
         <h2>Grape</h2>
         <p class="title">Decentralized Journal</p>
