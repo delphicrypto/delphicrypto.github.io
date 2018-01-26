@@ -9,6 +9,7 @@ layout: page
 <link rel = "stylesheet"
    type = "text/css"
    href = "style.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <style>
@@ -26,40 +27,33 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/peri.jpg" alt="Jane" id="person" style="width:80%">
+      <img src="/assets/peri.jpg" alt="Jane" id="person">
       <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Pericles Philippopoulos</h2>
+        <p class="title">Co-founder</p>
+        <p>Pericles is a PhD student in Physics. </p>
+        <!--<p><button class="button">Contact</button></p>-->
+	<a href="mailto:pericles.philippopoulos@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+	<a href="http://www.github.com/pphili" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+	<i class="fa fa-twitter" aria-hidden="true"></i>
+	<a href="https://pphili.github.io/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="/assets/carlos.jpg" alt="Mike" style="width:80%" id="person">
+      <img src="/assets/carlos.jpg" alt="Mike" id="person">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Carlos G. Oliver</h2>
+        <p class="title">Co-founder</p>
+        <p>Carlos is a PhD student in Computer Science.</p>
+	<a href="mailto:cgoliver@protonmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+	<a href="http://www.github.com/cgoliver" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+	<a href="http://www.twitter.com/carlosgoliver" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+	<a href="http://www.cgoliver.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
       </div>
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-      <img src="/assets/carlos.jpg" alt="John" style="width:100%">
-      <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
 </div>
