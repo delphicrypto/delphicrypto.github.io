@@ -31,7 +31,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
       <div class="container">
         <h2>Pericles Philippopoulos</h2>
         <p class="title">Co-founder</p>
-        <p>Pericles is a PhD student in Physics. </p>
+        <!--<p>Pericles is a physicist wi. </p>-->
         <!--<p><button class="button">Contact</button></p>-->
 	<a href="mailto:pericles.philippopoulos@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
 	<a href="http://www.github.com/pphili" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
@@ -47,7 +47,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
       <div class="container">
         <h2>Carlos G. Oliver</h2>
         <p class="title">Co-founder</p>
-        <p>Carlos is a PhD student in Computer Science.</p>
+        <!--<p>Carlos is a PhD student in Computer Science.</p>-->
 	<a href="mailto:cgoliver@protonmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
 	<a href="http://www.github.com/cgoliver" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 	<a href="http://www.twitter.com/carlosgoliver" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
@@ -65,7 +65,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
       <div class="container">
         <h2>Alessandro Ricottone</h2>
         <p class="title">Co-founder</p>
-        <p>Pericles is a PhD student in Physics. </p>
+        <!--<p>Pericles is a PhD student in Physics. </p>-->
         <!--<p><button class="button">Contact</button></p>-->
 	<a href="mailto:pericles.philippopoulos@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
 	<a href="http://www.github.com/pphili" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
@@ -77,11 +77,11 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
   <div class="column">
     <div class="card">
-      <img src="/assets/carlos.jpg" alt="Mike" id="person">
+      <img src="/assets/simon.jpg" alt="Mike" id="person">
       <div class="container">
         <h2>Simon Sehayek</h2>
         <p class="title">Co-founder</p>
-        <p>Carlos is a PhD student in Computer Science.</p>
+        <!--<p>Carlos is a PhD student in Computer Science.</p>-->
 	<a href="mailto:cgoliver@protonmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
 	<a href="http://www.github.com/cgoliver" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 	<a href="http://www.twitter.com/carlosgoliver" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
