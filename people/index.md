@@ -24,7 +24,6 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
 </script>
 
 
-<div id="test">
 
 <div class="row">
   <div class="column">
@@ -92,4 +91,3 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
     </div>
   </div>
 
-</div>
