@@ -27,3 +27,6 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 * Technical talks 
 
 
+<h1> Past Events </h1>
+
+* Quantum information seminar (<a href="/education/Talks/2018CONFETI.pdf" target="_blank">INTRIQ-CONFETI 2018</a>)
