@@ -26,7 +26,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/archives/Images/pear.svg" alt="PEAR" style="width:80%">
+      <img src="/assets/pear.svg" alt="PEAR" id="project">
       <div class="container">
         <h2>Pear</h2>
         <p class="title">Decentralized Journal</p>
@@ -38,12 +38,12 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
   <div class="column">
     <div class="card">
-      <img src="/archives/Images/proposal.svg" alt="Proposal" style="width:80%" >
+      <img src="/archives/Images/proposal.svg" alt="Proposal" id="project">
       <div class="container">
         <h2>Proposal</h2>
-        <p class="title">Update proof-of-work</p>
+        <p class="title">Bitcoin consensus algorithm update</p>
         <p>Proposal to update the proof-of-work scheme to divert some of the computational power involved in hashing to solve NP-complete problems</p>
-        <p><button class="button">Link</button></p>
+        <p><button class="button">Article</button></p>
       </div>
     </div>
   </div>
@@ -53,7 +53,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/archives/Images/grape.svg" alt="GRAPE" style="width:80%">
+      <img src="/archives/Images/grape.svg" alt="GRAPE" id="project">
       <div class="container">
         <h2>Grape</h2>
         <p class="title">Decentralized Journal</p>
@@ -63,24 +63,22 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
     </div>
   </div>
 
+  <!--<div class="column">-->
+    <!--<div class="card">-->
+      <!--<img src="/archives/Images/proposalmessy.svg" alt="Wiki" id="person">-->
+      <!--<div class="container">-->
+        <!--<h2>Wiki</h2>-->
+        <!--<p class="title">Informational Database</p>-->
+        <!--<p>Wiki containing information about basic concepts associated with blockchain technology as well as information about the different blockchain projects being developed</p>-->
+        <!--<p><button class="button">Link</button></p>-->
+      <!--</div>-->
+    <!--</div>-->
+  <!--</div>-->
+
+
   <div class="column">
     <div class="card">
-      <img src="/archives/Images/proposalmessy.svg" alt="Wiki" style="width:80%" id="person">
-      <div class="container">
-        <h2>Wiki</h2>
-        <p class="title">Informational Database</p>
-        <p>Wiki containing information about basic concepts associated with blockchain technology as well as information about the different blockchain projects being developed</p>
-        <p><button class="button">Link</button></p>
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="/archives/Images/mango.svg" alt="Mango"  style="width:80%">
+      <img src="/archives/Images/mango.svg" alt="Mango" id="project">
       <div class="container">
         <h2>Mango</h2>
         <p class="title">Investment Tracking Application</p>
@@ -89,6 +87,5 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
       </div>
     </div>
   </div>
-
 
 </div>
