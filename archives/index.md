@@ -31,7 +31,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
         <h2>Pear</h2>
         <p class="title">Decentralized Journal</p>
         <p>Smart contract on the Ethereum network which will act as a decentralized, anoymous, uncensored, peer-reviewed journal.</p>
-        <p><button class="button">Contribute</button></p>
+        <p><a href="http://www.github.com/delphicrypto/Pear" target="_blank"><button class="button">Contribute</button></a></p>
       </div>
     </div>
   </div>
@@ -40,10 +40,10 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
     <div class="card">
       <img src="/archives/Images/proposal.svg" alt="Proposal" id="project">
       <div class="container">
-        <h2>Proposal</h2>
+        <h2>Research Article</h2>
         <p class="title">Bitcoin consensus algorithm update</p>
         <p>Proposal to update the proof-of-work scheme to divert some of the computational power involved in hashing to solve NP-complete problems</p>
-        <p><button class="button">Article</button></p>
+        <p><a href="https://arxiv.org/abs/1708.09419" target="_blank"><button class="button">Article</button></a></p>
       </div>
     </div>
   </div>
@@ -57,8 +57,8 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
       <div class="container">
         <h2>Grape</h2>
         <p class="title">Decentralized Journal</p>
-        <p>Decentralized, anoymous, uncensored, peer-reviewed journal built on a DAG (directed acyclic graph).</p>
-        <p><button class="button">Contribute</button></p>
+        <p>Decentralized, anoymous, uncensored, peer-reviewed journal built on a DAG (directed acyclic graph), an alternative consensus data structure to blockchain.</p>
+        <p><a href="http://www.github.com/delphicrypto/Grape" target="_blank"><button class="button">Contribute</button></a></p>
       </div>
     </div>
   </div>
@@ -82,8 +82,8 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
       <div class="container">
         <h2>Mango</h2>
         <p class="title">Investment Tracking Application</p>
-        <p>Application keeping track of cryptocurrency investments and working in conjuction with Wiki (coming soon) to categorize investments.</p>
-        <p><button class="button">Link</button></p>
+        <p>Web application for live statistics on cryptocurrency investments working in conjuction with Wiki (coming soon) to categorize investments.</p>
+        <p><button class="button">Contribute</button></p>
       </div>
     </div>
   </div>
