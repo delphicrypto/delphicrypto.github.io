@@ -26,7 +26,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/pear.svg" alt="PEAR" id="project">
+      <img src="/archives/Images/pear.svg" alt="PEAR" id="project">
       <div class="container">
         <h2>Pear</h2>
         <p class="title">Decentralized Journal</p>
@@ -82,7 +82,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
       <div class="container">
         <h2>Mango</h2>
         <p class="title">Investment Tracking Application</p>
-        <p>Application keeping track of cryptocurrency investments and working in conjuction with the Wiki to categorize investments.</p>
+        <p>Application keeping track of cryptocurrency investments and working in conjuction with Wiki (coming soon) to categorize investments.</p>
         <p><button class="button">Link</button></p>
       </div>
     </div>

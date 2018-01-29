@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-92.142857"
+     inkscape:cx="-1026.4286"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,30 +57,30 @@
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path9368"
        cx="354.33072"
-       cy="640.03149"
-       rx="241.42857"
-       ry="92.85714" />
+       cy="614.55322"
+       rx="220.43478"
+       ry="84.782608" />
     <ellipse
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path9370"
        cx="354.33072"
-       cy="640.03149"
-       rx="71.428574"
-       ry="2.8571429" />
+       cy="614.55322"
+       rx="65.217392"
+       ry="2.6086957" />
     <ellipse
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.26086998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path9374"
        cx="354.33072"
-       cy="640.03149"
-       rx="252.85715"
-       ry="104.28571" />
+       cy="614.55322"
+       rx="230.86957"
+       ry="95.217392" />
     <ellipse
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.26086998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path9376"
        cx="354.33072"
-       cy="640.03149"
-       rx="124.28571"
-       ry="260" />
+       cy="614.55322"
+       rx="113.47826"
+       ry="237.39131" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot9378"
@@ -96,15 +96,15 @@
          id="flowPara9384"
          style="line-height:345%;-inkscape-font-specification:'STIX Math';font-family:'STIX Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:80px">MANGO</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="171.54567"
-       y="1006.9337"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="84.372215"
+       y="1028.9337"
        id="text9386"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9388"
-         x="171.54567"
-         y="1006.9337"
-         style="font-size:93.75px;fill:#008200;fill-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">MANGO</tspan></text>
+         x="84.372215"
+         y="1028.9337"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008200;fill-opacity:1">MANGO</tspan></text>
   </g>
 </svg>
