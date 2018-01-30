@@ -26,16 +26,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-1026.4286"
+     inkscape:cx="-758.97534"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1839"
      inkscape:window-height="1056"
      inkscape:window-x="81"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4749" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4991">
     <rdf:RDF>
@@ -55,7 +59,7 @@
      transform="translate(0,-343.70079)">
     <g
        id="g4870"
-       transform="matrix(1.1260633,0,0,-1.1260633,-35.61524,891.07988)">
+       transform="matrix(1.1260633,0,0,-1.1260633,-35.61524,907.07988)">
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:14.05793476;stroke-miterlimit:10"
          id="circle3"
