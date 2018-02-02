@@ -30,7 +30,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
       <div class="container">
         <h2>Pear</h2>
         <p class="title">Decentralized Journal</p>
-        <p>Smart contract on the Ethereum network which will act as a decentralized, anoymous, uncensored, peer-reviewed journal.</p>
+        <p>Smart contract on the Ethereum network which will act as a decentralized, anonymous, uncensored, peer-reviewed journal.</p>
         <p><a href="http://www.github.com/delphicrypto/Pear" target="_blank"><button class="button">Contribute</button></a></p>
       </div>
     </div>
