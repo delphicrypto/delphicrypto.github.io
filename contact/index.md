@@ -21,5 +21,5 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <p id="test" align="center">For more information on any of our services or on joining the team please send us an email.<br>
 
-<a href="mailto:info@delphicrypto.com">info@delphicrypto.com</a> 
+<a href="mailto:info@ozeki.io">info@ozeki.io</a> 
 </p>
