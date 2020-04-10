@@ -1,5 +1,5 @@
 ---
-title: Education 
+title: Podcast 
 layout: page 
 ---
 
@@ -19,18 +19,21 @@ layout: page
 $("#test p").delay(10).animate({ opacity: 1  }, 700);
 </script>
 
-<p id="test"> We offer a variety of Blockchain and Cryptocurrency education services for personal and company use.
+<p id="test"> We host a weekly podcast where we discuss a recent blockchain research article. 
 </p>
 
-* Private lessons
-* Customized workshops
-* Technical talks 
+* Spotify 
+* Google Podcasts
+* YouTube 
 
 
-<h1> Past Events </h1>
+<h1> Episodes </h1>
 
-* Quantum information seminar (<a href="/education/Talks/2018CONFETI.pdf" target="_blank">INTRIQ-CONFETI 2018</a>)
-* Local Logic Lunch and Learn (<a href="/education/Talks/2018LocalLogic.pdf" target="_blank">Local Logic 2018</a>)
+* Episode 1: Using Blockchain to Solve Scientific Problems  (<a href="https://open.spotify.com/episode/4QCZ5AFYe1ZPHRHbYiRuAt?si=0R5FKksXRd-attTuH6QA0A" target="_blank">Listen</a>)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLeTJ6bFfF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Episode 0: Trailer (<a href="https://open.spotify.com/episode/3FVRAyWXSbCBYU14uZXICV?si=QMIsSC9mQYO-078POTZU5w" target="_blank">Listen</a>)
 
 
 
