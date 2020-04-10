@@ -125,6 +125,7 @@ menu:
   projects: /archives/
   people: /people/
   contact : /contact/
+  podcast: /podcast/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -141,6 +142,7 @@ menu_icons:
   about: user
   people: users
   projects: gears
+  podcast: gears
   education: graduation-cap 
   categories: th
   schedule: calendar
