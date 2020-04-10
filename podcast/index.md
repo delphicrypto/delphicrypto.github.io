@@ -19,7 +19,7 @@ layout: page
 $("#test p").delay(10).animate({ opacity: 1  }, 700);
 </script>
 
-<p id="test"> We host a weekly podcast where we discuss a recent blockchain research article. 
+<p id="test"> We host a weekly podcast called <b> The Blockchain Journal Club </b> where we discuss a recent blockchain research article. 
 </p>
 
 
