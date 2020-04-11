@@ -20,12 +20,19 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 </script>
 
 <p id="test"> We host a weekly podcast called <b> The Blockchain Journal Club </b> where we discuss a recent blockchain research article. 
+
 </p>
 
 
 <h1> Episodes </h1>
 
 * <b> Episode 1: Using Blockchain to Solve Scientific Problems  </b> (<a href="https://open.spotify.com/episode/4QCZ5AFYe1ZPHRHbYiRuAt?si=0R5FKksXRd-attTuH6QA0A" target="_blank">Spotify</a>)
+
+In this episode we discuss a recent paper of ours "Difficulty Scaling in Proof of Work for Decentralized Problem Solving".
+
+We'll be going over the basics of how mining is achieved in blockchains like Bitcoin and how various efforts have been made to leverage computational power towards solving scientific problems.
+
+These problems can go from protein folding for drug discovery to neural network parameter searching.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PLeTJ6bFfF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
