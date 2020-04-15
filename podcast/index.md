@@ -26,6 +26,13 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <h1> Episodes </h1>
 
+* <b> Episode 2: Improving Bitcoin Difficulty Updates </b> 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/5G9G4gXlVGJXwtHMeRa9U3" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjCrL0ic16w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 * <b> Episode 1: Using Blockchain to Solve Scientific Problems  </b> (<a href="https://open.spotify.com/episode/4QCZ5AFYe1ZPHRHbYiRuAt?si=0R5FKksXRd-attTuH6QA0A" target="_blank">Spotify</a>)
 
 In this episode we discuss a recent paper of ours "Difficulty Scaling in Proof of Work for Decentralized Problem Solving".
