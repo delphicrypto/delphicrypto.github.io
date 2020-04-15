@@ -26,9 +26,12 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <h1> Episodes </h1>
 
-* <b> Episode 2: Improving Bitcoin Difficulty Updates </b> 
+* <b> Episode 2: Improving Proof-of-Work Difficulty Updates </b> (<a href="https://open.spotify.com/episode/5G9G4gXlVGJXwtHMeRa9U3?si=MPeqq6ChQyStI_OyoEXrCw" target="_blank">Spotify</a>)
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/5G9G4gXlVGJXwtHMeRa9U3" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+In this episode of The Blockchain Journal Club, we discuss a recent paper which proposes an alternate way to adjust the difficulty in blockchain mining to guarantee more reliable block times.
+
+The author tries to improve the responsiveness of mining difficulty to rapidly changing hash-rates. Most blockchain implementations are very slow to update mining difficulty. This can cause problems where powerful miners are able to control the difficulty and can end up crashing certain currencies.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjCrL0ic16w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
