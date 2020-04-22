@@ -33,7 +33,7 @@ We discuss a recent paper which proposes an asynchrous blockchain using a graph 
 This would allow the network to avoid proof of work and promises transaction finality. 
 We also go over some blockchain fundamentals including double spending and network consensus.
 
-Paper: https://arxiv.org/pdf/1909.10926.pdf
+Paper: [arxiv](https://arxiv.org/pdf/1909.10926.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jmhJ2igzTkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -43,6 +43,7 @@ In this episode of The Blockchain Journal Club, we discuss a recent paper which 
 
 The author tries to improve the responsiveness of mining difficulty to rapidly changing hash-rates. Most blockchain implementations are very slow to update mining difficulty. This can cause problems where powerful miners are able to control the difficulty and can end up crashing certain currencies.
 
+Paper: [ledger journal](https://ledgerjournal.org/ojs/ledger/article/view/195/187)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjCrL0ic16w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -54,6 +55,8 @@ In this episode we discuss a recent paper of ours "Difficulty Scaling in Proof o
 We'll be going over the basics of how mining is achieved in blockchains like Bitcoin and how various efforts have been made to leverage computational power towards solving scientific problems.
 
 These problems can go from protein folding for drug discovery to neural network parameter searching.
+
+Paper: [arxiv](https://arxiv.org/pdf/1911.00435.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PLeTJ6bFfF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
