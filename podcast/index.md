@@ -26,6 +26,17 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <h1> Episodes </h1>
 
+* <b> Episode 3: Asynchrous Blockchain Without Consensus </b> (<a href="https://open.spotify.com/episode/0M7b187OR1buXTVuW1hHOT?si=ssluUyr6SC6JxE-AwPSwcQ" target="_blank">Spotify</a>)
+
+In this episode we are joined by guest and fellow PhD student, Simon Sehayek. 
+We discuss a recent paper which proposes an asynchrous blockchain using a graph structure instead of a blockchain. 
+This would allow the network to avoid proof of work and promises transaction finality. 
+We also go over some blockchain fundamentals including double spending and network consensus.
+
+Paper: https://arxiv.org/pdf/1909.10926.pdf
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmhJ2igzTkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * <b> Episode 2: Improving Proof-of-Work Difficulty Updates </b> (<a href="https://open.spotify.com/episode/5G9G4gXlVGJXwtHMeRa9U3?si=MPeqq6ChQyStI_OyoEXrCw" target="_blank">Spotify</a>)
 
 In this episode of The Blockchain Journal Club, we discuss a recent paper which proposes an alternate way to adjust the difficulty in blockchain mining to guarantee more reliable block times.
