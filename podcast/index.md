@@ -26,7 +26,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <h1> Episodes </h1>
 
-* <b> Episode 4: Asynchrous Blockchain Without Consensus </b> (<a href="https://open.spotify.com/episode/32YkwDW10NzYHDvUKhzFSK?si=EZGY_u05TZ-hy39wDFwBvw" target="_blank">Spotify</a>)
+* <b> Episode 4: Analyzing the Risks and Prevalence of Bitcoin Brain Wallets </b> (<a href="https://open.spotify.com/episode/32YkwDW10NzYHDvUKhzFSK?si=EZGY_u05TZ-hy39wDFwBvw" target="_blank">Spotify</a>)
 Brain wallets are Bitcoin secret keys that are generated from a person coming up with a memorable passphrase. They can be convenient and sometimes more secure. In this episode we discuss a paper which studies the prevalence of these types of wallets and quantifies the risk involved.
 
 We go over the concepts of Bitcoin addresses, public key cryptography, and wallet security.
