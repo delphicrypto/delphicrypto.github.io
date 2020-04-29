@@ -26,6 +26,15 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <h1> Episodes </h1>
 
+* <b> Episode 4: Asynchrous Blockchain Without Consensus </b> (<a href="https://open.spotify.com/episode/32YkwDW10NzYHDvUKhzFSK?si=EZGY_u05TZ-hy39wDFwBvw" target="_blank">Spotify</a>)
+Brain wallets are Bitcoin secret keys that are generated from a person coming up with a memorable passphrase. They can be convenient and sometimes more secure. In this episode we discuss a paper which studies the prevalence of these types of wallets and quantifies the risk involved.
+
+We go over the concepts of Bitcoin addresses, public key cryptography, and wallet security.
+
+Paper: [paper](https://fc16.ifca.ai/preproceedings/36_Vasek.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4wIR_uEyhiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * <b> Episode 3: Asynchrous Blockchain Without Consensus </b> (<a href="https://open.spotify.com/episode/0M7b187OR1buXTVuW1hHOT?si=ssluUyr6SC6JxE-AwPSwcQ" target="_blank">Spotify</a>)
 
 In this episode we are joined by guest and fellow PhD student, Simon Sehayek. 
