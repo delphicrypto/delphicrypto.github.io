@@ -32,7 +32,7 @@ Brain wallets are Bitcoin secret keys that are generated from a person coming up
 
 We go over the concepts of Bitcoin addresses, public key cryptography, and wallet security.
 
-Paper: [paper](https://fc16.ifca.ai/preproceedings/36_Vasek.pdf)
+Paper: [pdf](https://fc16.ifca.ai/preproceedings/36_Vasek.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4wIR_uEyhiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
