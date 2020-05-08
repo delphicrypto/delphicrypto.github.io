@@ -26,6 +26,15 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <h1> Episodes </h1>
 
+* <b> Episode 5:  Finding Vulnerable Wallets on Ethereum </b> (<a href="https://open.spotify.com/episode/0vMBqsEkeRKL3n3eYnGFg3?si=3Z4OLRajRVmfnIsgFs4HXQ" target="_blank">Spotify</a>)
+
+In this episode we look at a study which identified Ethereum wallets generated from vulnerable private keys, and uncovered the famous 'blockchainbandit' worth over 40 million dollars in his prime.
+We discuss how keys and addresses are generated in Ethereum, potential security risks, and speculate on the morality of wallet draining.
+
+Paper: [report](https://www.ise.io/casestudies/ethercombing/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EOsGpEF1z5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * <b> Episode 4: Analyzing the Risks and Prevalence of Bitcoin Brain Wallets </b> (<a href="https://open.spotify.com/episode/32YkwDW10NzYHDvUKhzFSK?si=EZGY_u05TZ-hy39wDFwBvw" target="_blank">Spotify</a>)
 
 Brain wallets are Bitcoin secret keys that are generated from a person coming up with a memorable passphrase. They can be convenient and sometimes more secure. In this episode we discuss a paper which studies the prevalence of these types of wallets and quantifies the risk involved.
