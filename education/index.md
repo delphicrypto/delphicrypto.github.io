@@ -26,6 +26,9 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 * Customized workshops
 * Technical talks 
 
+<h1> Ongoing Events </h1>
+
+* Live Beginner's Guide on Owning Bitcoin (<a href="https://www.eventbrite.com/e/beginners-guide-to-owning-bitcoin-tickets-102991532446?aff=efbeventtix" target="_blank">Live Bitcoin Workshop</a>)
 
 <h1> Past Events </h1>
 
