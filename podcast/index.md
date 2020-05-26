@@ -26,7 +26,7 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <h1> Episodes </h1>
 
-* <b> Episode 7: Episode 7: Asynchrous Blockchains (Part 2, Feat. Jakub Silwinski) </b> (<a href="https://open.spotify.com/episode/6J9Ir0wUrCiYD2nVoh1rSI?si=UjeXdOuQT_6EP5Of2Y2vpQ" target="_blank">Spotify</a>)
+* <b> Episode 7: Asynchrous Blockchains (Part 2, Feat. Jakub Silwinski) </b> (<a href="https://open.spotify.com/episode/6J9Ir0wUrCiYD2nVoh1rSI?si=UjeXdOuQT_6EP5Of2Y2vpQ" target="_blank">Spotify</a>)
 
 In this episode, we are joined by Jakub Sliwinski from ETH Zurich to discuss his recent article proposing an asynchrous blockchain without consensus.
 
