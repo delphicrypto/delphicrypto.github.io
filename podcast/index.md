@@ -26,6 +26,23 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <h1> Episodes </h1>
 
+* <b> Episode 7: Episode 7: Asynchrous Blockchains (Part 2, Feat. Jakub Silwinski) </b> (<a href="https://open.spotify.com/episode/6J9Ir0wUrCiYD2nVoh1rSI?si=UjeXdOuQT_6EP5Of2Y2vpQ" target="_blank">Spotify</a>)
+
+In this episode, we are joined by Jakub Sliwinski from ETH Zurich to discuss his recent article proposing an asynchrous blockchain without consensus.
+
+We go in depth on the theoretical foundations behind a peer to peer payments system which protects against double spend attacks without requiring expensive network synchronization.
+
+Paper: [article](https://arxiv.org/pdf/1909.10926.pdf)
+
+* <b> Episode 6:  Blockchain in Healthcare - Gamechanger or Overkill? </b> (<a href="https://open.spotify.com/episode/6J9Ir0wUrCiYD2nVoh1rSI?si=UjeXdOuQT_6EP5Of2Y2vpQ" target="_blank">Spotify</a>)
+
+This episode features a review article covering various problems in the healthcare industry that blockchain can help solve.
+We go over the benefits and limitations of decentralized systems and discuss scenarios where blockchain is crucial, and where it might be overkill.
+
+Paper: [article](https://academic.oup.com/jamia/article/24/6/1211/4108087)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JkyNx7L3iHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * <b> Episode 5:  Finding Vulnerable Wallets on Ethereum </b> (<a href="https://open.spotify.com/episode/0vMBqsEkeRKL3n3eYnGFg3?si=3Z4OLRajRVmfnIsgFs4HXQ" target="_blank">Spotify</a>)
 
 In this episode we look at a study which identified Ethereum wallets generated from vulnerable private keys, and uncovered the famous 'blockchainbandit' worth over 40 million dollars in his prime.
