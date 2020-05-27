@@ -32,6 +32,8 @@ In this episode, we are joined by Jakub Sliwinski from ETH Zurich to discuss his
 
 We go in depth on the theoretical foundations behind a peer to peer payments system which protects against double spend attacks without requiring expensive network synchronization.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOCmkxPNXgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Paper: [article](https://arxiv.org/pdf/1909.10926.pdf)
 
 * <b> Episode 6:  Blockchain in Healthcare - Gamechanger or Overkill? </b> (<a href="https://open.spotify.com/episode/6J9Ir0wUrCiYD2nVoh1rSI?si=UjeXdOuQT_6EP5Of2Y2vpQ" target="_blank">Spotify</a>)
