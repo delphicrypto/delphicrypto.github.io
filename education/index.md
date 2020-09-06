@@ -1,5 +1,5 @@
 ---
-title: Education 
+title:
 layout: page 
 ---
 
@@ -8,32 +8,26 @@ layout: page
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 
-<style>
 
-#test p {
-  opacity: 0;
-}
-</style>
+<!--<script>-->
+<!--$("#test p").delay(10).animate({ opacity: 1  }, 700);-->
+<!--</script>-->
 
-<script>
-$("#test p").delay(10).animate({ opacity: 1  }, 700);
-</script>
-
-<p id="test"> We offer a variety of Blockchain and Cryptocurrency education services for personal and company use.
+<p> Our scientists will guide you through the critical technological decisions powering your business. We have experience helping startups deploy the most effective tech in various industries. Our areas of expertise include:
 </p>
 
-* Private lessons
-* Customized workshops
-* Technical talks 
+* Bioinformatics    
+* Computational Biology 
+* Machine Learning 
+* Network Science
+* Blockchain Technology
+* Physical Modeling 
+* Statistical Analysis 
 
-<h1> Ongoing Events </h1>
+## In-person (virtual) meetings
 
-* Live Beginner's Guide on Owning Bitcoin (<a href="https://www.eventbrite.com/e/beginners-guide-to-owning-bitcoin-tickets-102991532446?aff=efbeventtix" target="_blank">Get Tickets</a>)
+## Personalized workshops
 
-<h1> Past Events </h1>
+## Custom implementations
 
-* Quantum information seminar (<a href="/education/Talks/2018CONFETI.pdf" target="_blank">INTRIQ-CONFETI 2018</a>)
-* Local Logic Lunch and Learn (<a href="/education/Talks/2018LocalLogic.pdf" target="_blank">Local Logic 2018</a>)
-
-
-
+<div style="text-align:center"><button onclick="window.location.href='https://ozeki-meetings.youcanbook.me/';">Book an Appointment </button></div>

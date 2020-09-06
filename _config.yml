@@ -121,10 +121,10 @@ menu:
   #about: /about/
   #archives: /archives/
   #tags: /tags/
-  education: /education/
-  projects: /archives/
-  podcast: /podcast/
+  services: /education/
   people: /people/
+  research: /archives/
+  podcast: /podcast/
   contact : /contact/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
@@ -141,9 +141,9 @@ menu_icons:
   home: home
   about: user
   people: users
-  projects: gears
+  research: gears
   podcast: podcast 
-  education: graduation-cap 
+  services: graduation-cap 
   categories: th
   schedule: calendar
   tags: tags
