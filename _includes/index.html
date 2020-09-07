@@ -13,22 +13,31 @@
     opacity: 0;
 }
 
+#fade-3{
+    opacity:0;
+  }
+
 
 </style>
 
 <center>
 	<div id="fade">
-		<font color="#8c8c8c">Welcome to Ozeki,  Scientific Consulting. </font> <br><br> 
+	<h2>
+		Welcome to Ozeki,  Scientific Consulting.  <br><br> 
 
+	</h2>
 	</div>
 
 	<div id="fade-2">
 	<h1>
-		Bringing the <span style="background-color: white"> <font color="black"> state-of-the-art</font> </span> to your business. 
+		Bringing the <span style="background-color: white"> <font color="black"> state-of-the-art</font> </span> to your business. <br><br>
 	</h1>
 	</div>
 
+	<div id="fade-3" style="text-align:center"><button onclick="window.location.href='/education';">Get Started</button></div>
+
 </center> 
+
 
 <section id="posts" class="posts-expand">
   {% for post in posts %}
@@ -39,7 +48,8 @@
 
 <script>
 $("#fade").delay(1000).animate({"opacity": "1"}, 800);
-$("#fade-2").delay(2000).animate({"opacity": "1"}, 800);
+$("#fade-2").delay(1900).animate({"opacity": "1"}, 800);
+$("#fade-3").delay(2800).animate({"opacity": "1"}, 800);
 </script>
 
 
