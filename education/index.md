@@ -36,9 +36,18 @@ You can schedule a meeting with our experts at any time using our booking form [
 If there is a specific technology or theory that you and your team wishes to better understand, we can help you with custom workshops. 
 We have extensive experience in teaching at the university level and have presented technical workshops to wide audiences.
 
-
 ## Hiring Assessments
 
-## Custom implementations
+To make sure your team grows to include the most effective members possible, we can help you prepare interview questions and candidate screening for technical prowess.
+
+## Custom Implementations & Troubleshooting 
+
+As trained scientists, we have built many scientific tools from the ground-up. 
+See below for a list of some examples of our published work:
+
+* [Drug Discovery + AI](https://github.com/cgoliver/RNAmigos)
+* [Graph Data Mining](https://github.com/cgoliver/RNAmigos)
+* [Evolutionary Algorithms](https://github.com/cgoliver/mateRNAl)
+
 
 <div style="text-align:center"><button onclick="window.location.href='https://ozeki-meetings.youcanbook.me/';">Book an Appointment </button></div>
