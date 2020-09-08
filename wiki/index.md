@@ -8,7 +8,7 @@ order: 1
 
 ---
 
-Welcome to the Ozeki Inc Knowledge Base (wiki/blog). This is a collection of explanations and interpretations of current scientific works and key concepts.
+Welcome to the Ozeki Inc Knowledge Base (wiki/blog). This is a collection of articles where we distill and simplify the latest and most important scientific advances in various technical fields.
 
 <h1 class="page-heading">Pages</h1>
 

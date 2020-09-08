@@ -25,8 +25,17 @@ layout: page
 
 ## In-person (virtual) meetings
 
+The best way to understand your needs and challenges you are facing is through personal meetings.
+In our meetings we can go in depth on the specific problems you want to solve, and we can keep in in sync as your project advances. 
+You can schedule a meeting with our experts at any time using our booking form [here](https://ozeki-meetings.youcanbookme.me)
+
+
 
 ## Personalized workshops
+
+If there is a specific technology or theory that you and your team wishes to better understand, we can help you with custom workshops. 
+We have extensive experience in teaching at the university level and have presented technical workshops to wide audiences.
+
 
 ## Hiring Assessments
 
