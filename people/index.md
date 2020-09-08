@@ -40,7 +40,7 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
 	<a href="http://www.github.com/cgoliver" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 	<a href="http://www.twitter.com/carlosgoliver" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 	<a href="http://www.cgoliver.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
-	<p>Carlos is a PhD student in Computer Science.</p>
+	<p>Carlos is a PhD candidate in Computer Science at McGill University Computational Structural Biology Group and Mila. In his research, Carlos develops algorithms to solve problems in network science, drug discovery, and drug design. He has worked at NextAI and Creative Destruction Labs as a Scientist in Residence, advising multiple startups on technical strategies and hiring. </p>
       </div>
     </div>
 
@@ -59,14 +59,13 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
 	<a href="http://www.github.com/pphili" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 	<!--<i class="fa fa-twitter" aria-hidden="true"></i>-->
 	<a href="https://pphili.github.io/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
-	<p>Pericles holds a PhD in Condensed Matter Physics and has authored publications in.... </p>
+	<p>Pericles holds a PhD in Condensed Matter Physics and has authored publications in several fields, including blockchain, quantum physics, and computer science. </p>
       </div>
     </div>
 
 </div>
 
 <div class="row">
-  <div class="column">
     <div class="card">
       <img src="/assets/ale.jpg" alt="Jane" id="person">
       <div class="container">
@@ -77,10 +76,10 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
 	<a href="http://www.github.com/ricott1" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 	<!--<i class="fa fa-twitter" aria-hidden="true"></i>-->
 	<i class="fa fa-globe" aria-hidden="true"></i>
-	<p>Pericles is a PhD student in Physics. </p>
+	<p>Alessandro holds a PhD in condensed matter physics, and has worked as a Research Scientist at top 100 blockchain company, Lisk. </p>
       </div>
-    </div>
   </div>
+
 
 </div>
 

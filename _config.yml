@@ -125,6 +125,7 @@ menu:
   people: /people/
   research: /archives/
   podcast: /podcast/
+  wiki: /wiki/
   contact : /contact/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
@@ -143,6 +144,7 @@ menu_icons:
   people: users
   research: gears
   podcast: podcast 
+  wiki: book 
   services: graduation-cap 
   categories: th
   schedule: calendar
