@@ -45,6 +45,7 @@ To make sure your team grows to include the most effective members possible, we 
 As trained scientists, we have built many scientific tools from the ground-up. 
 See below for a list of some examples of our published work:
 
+* [Useful Proof of Work for Blockchains](http://ledger.pitt.edu/ojs/ledger/article/view/194)
 * [Drug Discovery + AI](https://github.com/cgoliver/RNAmigos)
 * [Graph Data Mining](https://github.com/cgoliver/RNAmigos)
 * [Evolutionary Algorithms](https://github.com/cgoliver/mateRNAl)
