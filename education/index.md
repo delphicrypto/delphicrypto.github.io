@@ -48,6 +48,7 @@ See below for a list of some examples of our published work:
 * [Drug Discovery + AI](https://github.com/cgoliver/RNAmigos)
 * [Graph Data Mining](https://github.com/cgoliver/RNAmigos)
 * [Evolutionary Algorithms](https://github.com/cgoliver/mateRNAl)
+* [Group Theory](https://github.com/pphili/group-theory-projections)
 
 
 <div style="text-align:center"><button onclick="window.location.href='https://ozeki-meetings.youcanbook.me/';">Book an Appointment </button></div>

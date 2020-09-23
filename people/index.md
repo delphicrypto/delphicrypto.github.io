@@ -59,27 +59,10 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
 	<a href="http://www.github.com/pphili" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 	<!--<i class="fa fa-twitter" aria-hidden="true"></i>-->
 	<a href="https://pphili.github.io/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
-	<p>Pericles holds a PhD in Condensed Matter Physics and has authored publications in several fields, including blockchain, quantum physics, and computer science. </p>
+	<p>Pericles Philippopoulos obtained his PhD in Physics from Prof. William Coish’s group at McGill University in 2020. The focus of his work was to gain a better understanding of spin interactions, specifically hyperfine and spin-orbit couplings in semiconductor nanostructures. Pericles shares his time between Ozeki, and Nanoacademic Technologies where he works as a research scientist. Apart from his expertise in physics and mathematics, Pericles has authored papers in Blockchain technology, and actively cultivates his interest in machine learning. </p>
       </div>
     </div>
 
 </div>
 
-<div class="row">
-    <div class="card">
-      <img src="/assets/ale.jpg" alt="Jane" id="person">
-      <div class="container">
-        <h2>Alessandro Ricottone</h2>
-        <p class="title">Lead Blockchain Consulting</p>
-        <!--<p><button class="button">Contact</button></p>-->
-	<a href="mailto:ricott2@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
-	<a href="http://www.github.com/ricott1" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-	<!--<i class="fa fa-twitter" aria-hidden="true"></i>-->
-	<i class="fa fa-globe" aria-hidden="true"></i>
-	<p>Alessandro holds a PhD in condensed matter physics, and has worked as a Research Scientist at top 100 blockchain company, Lisk. </p>
-      </div>
-  </div>
-
-
-</div>
 
