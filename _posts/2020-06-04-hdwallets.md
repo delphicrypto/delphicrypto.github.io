@@ -1,6 +1,6 @@
 ---
 title: Podcast -- Understanding Hierarchical Deterministic Wallets 
-date: 2020-05-27
+date: 2020-06-04
 categories:
 - Podcast
 - Blockchain
