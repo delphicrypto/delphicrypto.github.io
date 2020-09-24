@@ -1,8 +1,9 @@
 ---
 title: Podcast -- Improving Proof-of-Work Difficulty Updates 
-date: 2020-09-10
+date: 2020-04-15
 categories:
 - Blockchain 
+- Podcast
 - Proof-of-Work
 ---
 

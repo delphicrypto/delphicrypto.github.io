@@ -2,6 +2,7 @@
 title: Podcast -- Using Blockchain to Crowdsource Scientific Problems 
 date: 2020-04-08
 categories:
+- Podcast
 - Blockchain
 - Proof-of-Work 
 ---

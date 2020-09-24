@@ -1,6 +1,6 @@
 ---
 title: Lecture Notes -- No Free Lunch and Occam's Generalization Bound 
-date: 2020-09-10
+date: 2020-09-21
 categories:
 - Deep Learning Theory
 ---
