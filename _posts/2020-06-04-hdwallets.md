@@ -5,7 +5,7 @@ categories:
 - Podcast
 - Blockchain
 - Wallets 
---
+---
 
 In this episode, we go in depth with advanced Bitcoin wallets known as Hierarchical Deterministic Wallets. This type of wallet allows for the secure generation of many addresses from a single seed.
 
