@@ -9,12 +9,16 @@ Here you will find our collection of articles and podcasts where we distill and 
 
 <h1 class="page-heading">Categories</h1>
 
+<ul class="category-list">
 {% for cat_posts in site.categories %}
+<li class="category-list-item">
 {% assign cat = cat_posts[0] %}
 {% assign posts = cat_posts[1] %}
 {% assign cat_url_encode = cat | url_encode | replace: '+', '%20' %}
-* <a class="category-list-link" href="{{ '/category/#/' | relative_url | append: cat_url_encode }}">{{ cat }} ({{posts.size}})</a>
+<a class="category-list-link" href="{{ '/category/#/' | relative_url | append: cat_url_encode }}">{{ cat }} ({{posts.size}})</a>
+</li>
 {% endfor %}
+</ul>
 
 
 <h1 class="page-heading"> All Pages</h1>
