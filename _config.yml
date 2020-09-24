@@ -123,7 +123,6 @@ menu:
   #tags: /tags/
   services: /education/
   people: /people/
-  podcast: /podcast/
   wiki: /wiki/
   contact : /contact/
   #sitemap: /sitemap.xml
@@ -141,7 +140,6 @@ menu_icons:
   home: home
   about: user
   people: users
-  podcast: podcast 
   wiki: book 
   services: graduation-cap 
   categories: th
