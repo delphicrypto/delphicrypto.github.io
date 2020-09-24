@@ -123,7 +123,6 @@ menu:
   #tags: /tags/
   services: /education/
   people: /people/
-  research: /archives/
   podcast: /podcast/
   wiki: /wiki/
   contact : /contact/
@@ -142,7 +141,6 @@ menu_icons:
   home: home
   about: user
   people: users
-  research: gears
   podcast: podcast 
   wiki: book 
   services: graduation-cap 
