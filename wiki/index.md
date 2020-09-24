@@ -1,11 +1,8 @@
 ---
-
 layout: page
 title: Wiki
-permalink: /wiki
 nav: true
 order: 1
-
 ---
 
 Welcome to the Ozeki Inc Knowledge Base (wiki/blog). This is a collection of articles where we distill and simplify the latest and most important scientific advances in various technical fields.
