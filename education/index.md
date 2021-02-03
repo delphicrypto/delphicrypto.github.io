@@ -20,7 +20,6 @@ layout: page
 * Machine Learning 
 * Network Science
 * Blockchain Technology
-* Physical Modeling 
 * Statistical Analysis 
 
 ## In-person (virtual) meetings
