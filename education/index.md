@@ -15,6 +15,8 @@ layout: page
 <p> Our scientists will guide you through the critical technological decisions powering your business. We have experience helping startups deploy the most effective tech in various industries. Our areas of expertise include:
 </p>
 
+<div style="text-align:center"><button onclick="window.location.href='https://ozeki.io/book/';">Book a Free Consultation </button></div>
+
 * Bioinformatics    
 * Computational Biology 
 * Machine Learning 
@@ -51,4 +53,4 @@ See below for a list of some examples of our published work:
 * [Group Theory](https://github.com/pphili/group-theory-projections)
 
 
-<div style="text-align:center"><button onclick="window.location.href='https://ozeki-meetings.youcanbook.me/';">Book an Appointment </button></div>
+<div style="text-align:center"><button onclick="window.location.href='https://ozeki.io/book/';">Book a Free Consultation </button></div>
