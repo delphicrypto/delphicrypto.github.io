@@ -59,6 +59,6 @@ See below for a list of some examples of our published work:
 
 # Clients
 
-[<img src="/assets/simmunome.svg" alt="Simmunome" id="person">](https://www.simmunome.com/)
+[!<img src="/assets/simmunome.svg" alt="Simmunome" id="person">](https://www.simmunome.com/)
 
 <div style="text-align:center"><button onclick="window.location.href='http://ozeki.io/book/';">Book a Free Initial Consultation </button></div>
