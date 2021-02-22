@@ -12,25 +12,25 @@ layout: page
 <!--$("#test p").delay(10).animate({ opacity: 1  }, 700);-->
 <!--</script>-->
 
-<div style="text-align:center"><button onclick="window.location.href='https://ozeki.io/book/';">Book a Free Consultation </button></div><br>
+<div style="text-align:center"><button onclick="window.location.href='http://ozeki.io/book/';">Book a Free Consultation </button></div><br>
 
-<p> Our scientists will guide you through the critical technological decisions powering your business. We have experience helping startups deploy the most effective tech in various industries. Our areas of expertise include:
+<p> Our scientists will guide you through the critical technological decisions powering your business. We have experience helping startups plan and deploy the most effective tech in various industries. Our areas of expertise include:
 </p>
 
 
+* Machine Learning & Deep Learning
 * Bioinformatics    
 * Computational Biology 
-* Machine Learning 
 * Network Science
 * Blockchain Technology
-* Statistical Analysis 
+* Statistical & Mathematical Analysis 
+
+Our goal is to propose solutions at any level of development: from planning your big-picture technological vision, to measuring and optimizing performance, to implementing state-of-the art prototype and production software.
 
 ## In-person (virtual) meetings
 
 The best way to understand your needs and challenges you are facing is through personal meetings.
-In our meetings we can go in depth on the specific problems you want to solve, and we can keep in in sync as your project advances. 
-You can schedule a meeting with our experts at any time using our booking form [here](https://ozeki-meetings.youcanbookme.me)
-
+In our meetings we can go in depth on the specific problems you are facing, and we can keep in sync as your project advances. 
 
 
 ## Personalized workshops
@@ -54,4 +54,4 @@ See below for a list of some examples of our published work:
 * [Group Theory](https://github.com/pphili/group-theory-projections)
 
 
-<div style="text-align:center"><button onclick="window.location.href='https://ozeki.io/book/';">Book a Free Consultation </button></div>
+<div style="text-align:center"><button onclick="window.location.href='http://ozeki.io/book/';">Book a Free Consultation </button></div>
