@@ -12,7 +12,7 @@ layout: page
 <!--$("#test p").delay(10).animate({ opacity: 1  }, 700);-->
 <!--</script>-->
 
-<div style="text-align:center"><button onclick="window.location.href='https://ozeki.io/book/';">Book a Free Consultation </button></div>
+<div style="text-align:center"><button onclick="window.location.href='https://ozeki.io/book/';">Book a Free Consultation </button></div><br>
 
 <p> Our scientists will guide you through the critical technological decisions powering your business. We have experience helping startups deploy the most effective tech in various industries. Our areas of expertise include:
 </p>
