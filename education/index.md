@@ -55,7 +55,7 @@ See below for a list of some examples of our published work:
 
 # Testimonials
 
-* "Carlos was a critical help in building Lux's first machine learning (ML) based product. We strongly recommend him." - ** Vincent Lavoie, CEO & Co-Founder,** [LUX Aerobot](https://www.luxaerobot.com/)
+* "Carlos was a critical help in building Lux's first machine learning (ML) based product. We strongly recommend him." - __Vincent Lavoie, CEO & Co-Founder,__ [LUX Aerobot](https://www.luxaerobot.com/)
 
 # Clients
 
