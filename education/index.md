@@ -27,22 +27,22 @@ layout: page
 
 Our goal is to propose solutions at any level of development: from planning your big-picture technological vision, to measuring and optimizing performance, to implementing state-of-the art prototype and production software.
 
-## In-person (virtual) meetings
+### In-person (virtual) meetings
 
 The best way to understand your needs and challenges you are facing is through personal meetings.
 In our meetings we can go in depth on the specific problems you are facing, and we can keep in sync as your project advances. 
 
 
-## Personalized workshops
+### Personalized workshops
 
 If there is a specific technology or theory that you and your team wishes to better understand, we can help you with custom workshops. 
 We have extensive experience in teaching at the university level and have presented technical workshops to wide audiences.
 
-## Hiring Assessments
+### Hiring Assessments
 
 To make sure your team grows to include the most effective members possible, we can help you prepare interview questions and candidate screening for technical prowess.
 
-## Custom Implementations & Troubleshooting 
+### Custom Implementations & Troubleshooting 
 
 As trained scientists, we have built many scientific tools from the ground-up. 
 See below for a list of some examples of our published work:
