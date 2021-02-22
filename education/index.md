@@ -53,6 +53,8 @@ See below for a list of some examples of our published work:
 * [Evolutionary Algorithms](https://github.com/cgoliver/mateRNAl)
 * [Group Theory](https://github.com/pphili/group-theory-projections)
 
+<div style="text-align:center"><button onclick="window.location.href='http://ozeki.io/book/';">Book a Free Initial Consultation </button></div>
+
 # Testimonials
 
 * "Carlos was a critical help in building Lux's first machine learning (ML) based product. We strongly recommend him." - __Vincent Lavoie, CEO & Co-Founder,__ [__LUX Aerobot__](https://www.luxaerobot.com/)
@@ -61,4 +63,3 @@ See below for a list of some examples of our published work:
 
 <a href="https://www.simmunome.com"><img src="/assets/simmunome.svg" alt="Simmunome" id="person"></a>
 
-<div style="text-align:center"><button onclick="window.location.href='http://ozeki.io/book/';">Book a Free Initial Consultation </button></div>
