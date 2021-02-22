@@ -12,7 +12,7 @@ layout: page
 <!--$("#test p").delay(10).animate({ opacity: 1  }, 700);-->
 <!--</script>-->
 
-<div style="text-align:center"><button onclick="window.location.href='http://ozeki.io/book/';">Book a Free Consultation </button></div><br>
+<div style="text-align:center"><button onclick="window.location.href='http://ozeki.io/book/';">Book a Free Initial Consultation </button></div><br>
 
 <p> Our scientists will guide you through the critical technological decisions powering your business. We have experience helping startups plan and deploy the most effective tech in various industries. Our areas of expertise include:
 </p>
@@ -54,4 +54,4 @@ See below for a list of some examples of our published work:
 * [Group Theory](https://github.com/pphili/group-theory-projections)
 
 
-<div style="text-align:center"><button onclick="window.location.href='http://ozeki.io/book/';">Book a Free Consultation </button></div>
+<div style="text-align:center"><button onclick="window.location.href='http://ozeki.io/book/';">Book a Free Initial Consultation </button></div>
