@@ -57,6 +57,7 @@ See below for a list of some examples of our published work:
 
 # Testimonials
 
+* "Working with Carlos through the NextAI startup acceleration program was a blessing.  My cofounder and I are not experts in AI.  However, with Carlos’ guidance to bridge our vision and realization, we were able to develop our core product with a robust AI component.  We also learnt about the field of AI while progressing through our project.  Overall, I recommend working with Carlos to realize any AI projects from an idea to an actual product." - __Hoang Ng., CTO & Co-Founder,__ [__Mely AI__](https://www.mely.ai/)
 * "Carlos was a critical help in building Lux's first machine learning (ML) based product. We strongly recommend him." - __Vincent Lachance, CEO & Co-Founder,__ [__LUX Aerobot__](https://www.luxaerobot.com/)
 
 # Clients
