@@ -40,7 +40,7 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
 	<a href="http://www.github.com/cgoliver" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 	<a href="http://www.twitter.com/carlosgoliver" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 	<a href="http://www.cgoliver.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
-	<p>Carlos holds a PhD in Computer Science at McGill University Computational Structural Biology Group and Mila. In his research, Carlos develops algorithms to solve problems in network science, drug discovery, and drug design. He has worked at <a href="https://www.creativedestructionlab.com/">Creative Destruction Labs</a>, and is currently working at <a href="https://www.nextcanada.com/programs-overview/">NextAI</a> as Lead Scientist in Residence, advising multiple startups on technical strategies and hiring. </p>
+	<p>Carlos holds a PhD in Computer Science at McGill University Computational Structural Biology Group and Mila. In his research, Carlos develops algorithms to solve problems in network science, drug discovery, and drug design. He has worked at <a href="https://www.creativedestructionlab.com/">Creative Destruction Labs</a>, and is currently working at <a href="https://www.nextcanada.com/next-ai/">NextAI</a> as Lead Scientist in Residence, advising multiple startups on technical strategies and hiring. </p>
       </div>
     </div>
 
