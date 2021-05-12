@@ -66,3 +66,21 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
 </div>
 
 
+<div class="row">
+    <div class="card">
+      <img src="/assets/dora_pic.jpeg" alt="Jane" id="person">
+      <div class="container">
+        <h2>Dora Jambor</h2>
+        <p class="title">Consultant</p>
+        <!--<p><button class="button">Contact</button></p>-->
+	<a href="mailto:dorajambor@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+	<a href="http://www.github.com/dorajam" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+	<!--<i class="fa fa-twitter" aria-hidden="true"></i>-->
+	<a href="https://dorajambor.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
+	<p> Dora is a Visiting Researcher at ServiceNow where she works with Dzmitry Bahdanau on natural language to SQL program translation. Specifically, her work is in equipping AI models for semantic parsing with a compositional understanding of natural and programming language, with the goal of improving generalization to novel tasks.
+Dora is finishing her graduate studies in Computer Science at McGill University, while working as a researcher at Mila, the Quebec AI Institute. 
+Dora has also worked as a Scientist in Residence at the Creative Destruction Labs and NextAI where she advised various startups. Prior to that, she was a machine learning engineer at Shopify working with recommender systems for personalization and search problems.</p>
+      </div>
+    </div>
+
+</div>
