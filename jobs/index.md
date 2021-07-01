@@ -23,9 +23,17 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <h1> Machine Learning Specialist (contract-based)</h1>
 
+The ideal candidate will be responsible for proposing and developing state-of-the-art machine learning solutions based on client and research needs.
 
-<h1> Hiring Policy </h1>
+Skills Required:
 
-Ozeki Inc. is an Equal Opportunity Employer. All decisions related to employment (hiring, promoting, discharging) are based solely on merit, competence, and business needs.
+* Deep learning frameworks (PyTorch, TensorFlow, etc.)
+* Data analytics and visualization 
+* Critical thinking
+
+
+<h2> Hiring Policy </h2>
+
+Ozeki Inc. is an Equal Opportunity Employer. All decisions related to employment (hiring, promoting, discharging) are based solely on individual merit, competence, and business needs. Consequently, we do not discriminate (by witholding or furnishing opportunities) to employees or candidates on the basis of irrelevant characteristics such as age, sex, religion, political beliefs, and race.  
 
 </p>
