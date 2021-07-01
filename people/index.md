@@ -34,7 +34,7 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
     <div class="card">
       <img src="/assets/carlos.jpg" alt="Mike" id="person">
       <div class="container">
-        <h2>Carlos G. Oliver</h2>
+        <h2>Carlos Oliver</h2>
         <p class="title">Co-founder & Lead Consultant </p>
 	<a href="mailto:cgoliver@protonmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
 	<a href="http://www.github.com/cgoliver" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
