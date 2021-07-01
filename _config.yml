@@ -123,8 +123,8 @@ menu:
   #tags: /tags/
   services: /education/
   people: /people/
-  jobs: /jobs/
   wiki: /wiki/
+  jobs: /jobs/
   contact : /contact/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
@@ -150,6 +150,7 @@ menu_icons:
   sitemap: sitemap
   commonweal: heartbeat
   contact: envelope 
+  jobs: briefcase    
 
 
 
