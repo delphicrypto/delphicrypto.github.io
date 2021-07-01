@@ -63,5 +63,5 @@ See below for a list of some examples of our published work:
 # Clients
 
 <a href="https://www.simmunome.com"><img src="/assets/simmunome.svg" alt="Simmunome"></a>
-<a href="https://www.shuttlecontrol.com"><img src="/assets/shuttlecontrol.svg" alt="ShuttleControl"></a>
+<a href="https://www.shuttlecontrol.com"><img src="/assets/shuttlecontrol.svg" width="50%" alt="ShuttleControl"></a>
 
