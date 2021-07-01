@@ -21,11 +21,12 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <p id="test" align="center">These are our currently open positions. If you think this is the right job for you, send your CV to <a href="mailto:info@ozeki.io">info@ozeki.io</a> <br>
 
-<h1> Machine Learning Specialist (contract-based)</h1>
+<h1> Machine Learning Specialist (contract-based, remote)</h1>
 
-The ideal candidate will be responsible for proposing and developing state-of-the-art machine learning solutions based on client and research needs. <br>
+The ideal candidate will be responsible for proposing and developing state-of-the-art machine learning solutions based on client and research needs in a fast-paced collaborative environment.
+<br>
 
-Skills Required: <br
+Skills Required: <br>
 
 <ul>
 <li> Deep learning frameworks (PyTorch, TensorFlow, etc.) </li>
