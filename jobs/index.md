@@ -23,9 +23,9 @@ $("#test p").delay(10).animate({ opacity: 1  }, 700);
 
 <h1> Machine Learning Specialist (contract-based)</h1>
 
-The ideal candidate will be responsible for proposing and developing state-of-the-art machine learning solutions based on client and research needs.
+The ideal candidate will be responsible for proposing and developing state-of-the-art machine learning solutions based on client and research needs. <br>
 
-Skills Required:
+Skills Required: <br
 
 <ul>
 <li> Deep learning frameworks (PyTorch, TensorFlow, etc.) </li>
