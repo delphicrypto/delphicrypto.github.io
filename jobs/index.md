@@ -30,6 +30,7 @@ Skills Required: <br>
 
 <ul>
 <li> Deep learning frameworks (PyTorch, TensorFlow, etc.) </li>
+<li> Cloud computing and high-performance computing (AWS, Google Cloud, Azure) </li>
 <li> Data analytics and visualization </li>
 <li> Critical thinking </li>
 </ul>
