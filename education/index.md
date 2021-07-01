@@ -20,6 +20,7 @@ layout: page
 
 * Machine Learning & Deep Learning
 * Bioinformatics    
+* Algorithm design & Implementation
 * Computational Biology 
 * Network Science
 * Blockchain Technology
