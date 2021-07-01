@@ -62,5 +62,5 @@ See below for a list of some examples of our published work:
 
 # Clients
 
-<a href="https://www.simmunome.com"><img src="/assets/simmunome.svg" alt="Simmunome" id="person"></a>
+<a href="https://www.simmunome.com"><img src="/assets/simmunome.svg" alt="Simmunome"></a>
 
