@@ -19,7 +19,7 @@ layout: page
 $("#test p").delay(10).animate({ opacity: 1  }, 700);
 </script>
 
-<p id="test" align="center">These are our currently open positions. If you think this is the right job for you, send your CV to <a href="mailto:info@ozeki.io">info@ozeki.io</a> <br>
+<p id="test" align="center">These are our currently open positions. If you see a job that seems right for you, send your CV to <a href="mailto:info@ozeki.io">info@ozeki.io</a>. <br>
 
 <h1> Machine Learning Specialist (contract-based, remote)</h1>
 
