@@ -27,9 +27,13 @@ The ideal candidate will be responsible for proposing and developing state-of-th
 
 Skills Required:
 
-* Deep learning frameworks (PyTorch, TensorFlow, etc.)
-* Data analytics and visualization 
-* Critical thinking
+<ul>
+<li> Deep learning frameworks (PyTorch, TensorFlow, etc.) </li>
+<li> Data analytics and visualization </li>
+<li> Critical thinking </li>
+</ul>
+
+<br><br>
 
 
 <h2> Hiring Policy </h2>
