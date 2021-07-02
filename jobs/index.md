@@ -40,6 +40,6 @@ Skills Required: <br>
 
 <h2> Hiring Policy </h2>
 
-Ozeki Inc. is an Equal Opportunity Employer. All decisions related to employment (hiring, promoting, discharging) are based solely on individual merit, competence, and business needs. Consequently, we do not discriminate (by witholding or furnishing opportunities) to employees or candidates on the basis of irrelevant characteristics such as age, sex, religion, political beliefs, and race.  
+Ozeki Inc. is an Equal Opportunity Employer. All decisions related to employment (hiring, promoting, discharging) are based solely on individual merit, competence, and business needs. Consequently, we do not discriminate (by witholding or furnishing opportunities to employees or candidates) on the basis of irrelevant characteristics such as age, sex, religion, political beliefs, and race.  
 
 </p>
