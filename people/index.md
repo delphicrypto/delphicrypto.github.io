@@ -84,3 +84,21 @@ Dora has also worked as a Scientist in Residence at the Creative Destruction Lab
     </div>
 
 </div>
+
+<div class="row">
+    <div class="card">
+      <img src="/assets/anthony_pic.jpeg" alt="Jane" id="person">
+      <div class="container">
+        <h2>Anthony Sardain</h2>
+        <p class="title">Data Science Consultant</p>
+        <!--<p><button class="button">Contact</button></p>-->
+	<a href="mailto:dorajambor@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+	<a href="http://www.github.com/dorajam" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+	<!--<i class="fa fa-twitter" aria-hidden="true"></i>-->
+	<a href="https://dorajambor.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
+	<p> Anthony Sardain is the lead data scientist at Tierra, a San Francisco-based start-up focusing on applying machine learning to predict crime dynamics and patterns in Latin America. He completed his graduate studies in biostatistics at McGill University, and has since held multiple positions directing data science strategy in the private sector. He has advised numerous start-ups on how best to incorporate machine learning into their products, as well as served as a consultant on statistics for several IGOs, including the United Nations. His research on applied statistics has been featured on the cover of Nature journals, as well as in multiple newspapers worldwide.
+	</p>
+      </div>
+    </div>
+
+</div>
