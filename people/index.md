@@ -87,7 +87,7 @@ Dora has also worked as a Scientist in Residence at the Creative Destruction Lab
 
 <div class="row">
     <div class="card">
-      <img src="/assets/anthony_pic.jpeg" alt="Jane" id="person">
+      <img src="/assets/dora_pic.jpeg" alt="Jane" id="person">
       <div class="container">
         <h2>Anthony Sardain</h2>
         <p class="title">Data Science Consultant</p>
