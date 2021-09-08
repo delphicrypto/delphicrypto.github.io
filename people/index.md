@@ -34,7 +34,7 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
     <div class="card">
       <img src="/assets/carlos.jpg" alt="Mike" id="person">
       <div class="container">
-        <h2>Carlos Oliver</h2>
+        <h2>Carlos Oliver, PhD</h2>
         <p class="title">Co-founder & Lead Consultant </p>
 	<a href="mailto:cgoliver@protonmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
 	<a href="http://www.github.com/cgoliver" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
@@ -52,7 +52,7 @@ $("#test").delay(10).animate({ opacity: 1  }, 700);
     <div class="card">
       <img src="/assets/peri.jpg" alt="Jane" id="person">
       <div class="container">
-        <h2>Pericles Philippopoulos</h2>
+        <h2>Pericles Philippopoulos, PhD</h2>
         <p class="title">Co-founder & CEO</p>
         <!--<p><button class="button">Contact</button></p>-->
 	<a href="mailto:pericles.philippopoulos@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
@@ -87,7 +87,7 @@ Dora has also worked as a Scientist in Residence at the Creative Destruction Lab
 
 <div class="row">
     <div class="card">
-      <img src="/assets/dora_pic.jpeg" alt="Jane" id="person">
+      <img src="/assets/SumoWrestler.svg" alt="Jane" id="person">
       <div class="container">
         <h2>Anthony Sardain</h2>
         <p class="title">Data Science Consultant</p>
